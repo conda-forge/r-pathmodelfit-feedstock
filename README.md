@@ -1,11 +1,11 @@
-About r-pathmodelfit
-====================
+About r-pathmodelfit-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pathmodelfit-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=pathmodelfit
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pathmodelfit-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for computing fit indices for evaluating the path component of latent variable structural equation models. Available fit indices include RMSEA-P and NSCI-P originally presented and evaluated by Williams and O'Boyle (2011) <doi:10.1177/1094428110391472> and demonstrated by O'Boyle and Williams (2011) <doi:10.1037/a0020539> and Williams, O'Boyle, & Yu (2020) <doi:10.1177/1094428117736137>. Also included are fit indices described by Hancock and Mueller (2011) <doi:10.1177/0013164410384856>.
 
